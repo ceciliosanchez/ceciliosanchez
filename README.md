@@ -20,17 +20,17 @@ Cecilio primarily uses Visual Studio Code (VSCode) for development. His technica
 
 ## Technical Skills
 
-Languages: JavaScript, HTML, CSS, Python, TypeScript
-Frameworks & Libraries: React, React Native, JQuery, Bootstrap, Next.js, Node.js, Express, Restful APIs, Redux
-Databases: MongoDB/Mongoose, Cassandra, MySQL, Microsoft SQL
-Tools & Platforms: GitHub, Docker, AWS, Vercel, Linux CLI, domain and DNS management
-Testing: Jest (Node.JS
-Data Science & AI: Proficient in machine learning concepts and data analysis. 
+- Languages: JavaScript, HTML, CSS, Python, TypeScript
+- Frameworks & Libraries: React, React Native, JQuery, Bootstrap, Next.js, Node.js, Express, Restful APIs, Redux
+- Databases: MongoDB/Mongoose, Cassandra, MySQL, Microsoft SQL
+- Tools & Platforms: GitHub, Docker, AWS, Vercel, Linux CLI, domain and DNS management
+- Testing: Jest (Node.JS
+- Data Science & AI: Proficient in machine learning concepts and data analysis. 
 
 ## Professional Goals
 
-Career Development: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-Continuous Learning: Committed to continuous learning, he constantly seeks new skills and tools to enhance his proficiency.📈
+- Career Development: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- Continuous Learning: Committed to continuous learning, he constantly seeks new skills and tools to enhance his proficiency.📈
 
 ## Collaborations
 
