@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Cecilio Sanchez, residing in Manhattan, New York City,** specializes in full stack software development. He has expertise in front-end technologies including JavaScript, CSS/HTML, React, React Native, JQuery, and Bootstrap. On the back-end, he excels in Node.JS, Express, Restful APIs, and Redux, along with various JavaScript libraries. His database management skills include MongoDB/Mongoose, Cassandra, MySQL, and Microsoft SQL Server, and he is proficient in Jest (Node.JS) for testing.
-Cecilio primarily uses Visual Studio Code (VSCode) for development. His technical skills extend to Linux CLI, domain and DNS management, AWS setup, and end-to-end project deployment. 
+**Cecilio Sanchez, residing in Manhattan, New York City,** has specialized in full stack software development.
+His expertise in front-end development encompasses JavaScript, CSS/HTML, React, React Native, JQuery, and Bootstrap. On the back-end, he excels in Node.JS, Express, Restful APIs, Redux, alongside various JavaScript libraries. His database management skills include MongoDB/Mongoose, Casandra, MySQL, and Microsoft SQL Server. He is proficient in Jest (Node.JS) for testing.
+He primarily uses Visual Studio Code (VSCode) for development. His technical skills extend to Linux CLI, domain and DNS management, AWS setup, and project deployment from start to finish.
 
 ## Technical Skills 🛠️
 
