@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">A passionate frontend developer US based</h3>
 
 **Cecilio Sanchez, residing in Manhattan, New York City,** has specialized in full stack software development.
 His expertise in front-end development encompasses JavaScript, CSS/HTML, React, React Native, JQuery, and Bootstrap. On the back-end, he excels in Node.JS, Express, Restful APIs, Redux, alongside various JavaScript libraries. His database management skills include MongoDB/Mongoose, Casandra, MySQL, and Microsoft SQL Server. He is proficient in Jest (Node.JS) for testing.
@@ -26,9 +27,6 @@ He primarily uses Visual Studio Code (VSCode) for development. His technical ski
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis. 
 
 Committed to **continuous learning**, he constantly seeks new skills and tools to enhance his proficiency. He is **open to potential collaborations** or discussions on the latest technological advancements and eager to connect.
-
-
-<h3 align="center">A passionate frontend developer US based</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceciliosanchez&label=Profile%20views&color=0e75b6&style=flat" alt="ceciliosanchez" /> </p>
 
