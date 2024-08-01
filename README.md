@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer US based</h3>
+## A passionate frontend developer US based
 
 **Cecilio Sanchez, residing in Manhattan, New York City,** has specialized in full stack software development.
 His expertise in front-end development encompasses JavaScript, CSS/HTML, React, React Native, JQuery, and Bootstrap. On the back-end, he excels in Node.JS, Express, Restful APIs, Redux, alongside various JavaScript libraries. His database management skills include MongoDB/Mongoose, Casandra, MySQL, and Microsoft SQL Server. He is proficient in Jest (Node.JS) for testing.
